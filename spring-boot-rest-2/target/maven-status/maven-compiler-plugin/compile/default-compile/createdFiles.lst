@@ -1,0 +1,8 @@
+com\vihanga\sathsara\controllers\UserUpdateController.class
+com\vihanga\sathsara\controllers\UserRegistrationController.class
+com\vihanga\sathsara\server\main\SpringBootRest2Application.class
+com\vihanga\sathsara\controllers\UserDeleteController.class
+com\vihanga\sathsara\beans\UserRegistration.class
+com\vihanga\sathsara\beans\UserRegistrationReply.class
+com\vihanga\sathsara\beans\User.class
+com\vihanga\sathsara\controllers\UserRetrieveController.class
